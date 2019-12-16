@@ -1,10 +1,11 @@
 <h1>Networking-challenge</h1>
 Platform description: A networking platform for Tel Aviv Alumni, Wagoners can sign up to the platform, build their Profile and view other alumni profiles.
 
-Please Fork the challenge before you start.
+<h2>Please Fork the challenge before you start.</h2>
 User Journeys:
 
-As a user I can sign up to the networking platform.
+<ul>
+<li>As a user I can sign up to the networking platform.</li>
 As a user I need to fill my Profile.
 As a user I can view my Profile. (Profile show page)
 As a user I can edit my Profile.
@@ -12,6 +13,7 @@ As a user I can upload my Profile picture.
 As a user I can view all Profiles on the platform (Profiles Index page).
 As a user I can view another User’s profile page (Profile show page).
 As a user I can search other profiles based on skilss, names or emails. (Use PG search).
+</ul>
 Tip: You can use Mr Cocktail instructions and tips, the platforms are very similar.
 
 Tables Go to db.lewagon.com and draw the schema. The tables we need. Think about the relations between the tables and what fields should be in each table.
