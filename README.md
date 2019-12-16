@@ -22,13 +22,16 @@ Tables Go to [db.lewagon.com](https://kitt.lewagon.com/db/3862) and draw the sch
 Important Don’t use rake - there is no RAKE:
 
 Attributes
+<ul>
+<li>A Profile has a Full Name, email, current Role, description about themselves, Github username, Slack username and Skills.</li>
+<li>An skill has a name and experience (Experience is a number 1-5, 1 means hardly experienced and 5 means an expert).</li>
+</ul>
 
-A Profile has a Full Name, email, current Role, description about themselves, Github username, Slack username and Skills.
-An skill has a name and experience (Experience is a number 1-5, 1 means hardly experienced and 5 means an expert).
 Validation
-
-A Profile must have a unique email, Github username and slack name.
-A Skill must have a unique name.
+<ul>
+<li>A Profile must have a unique email, Github username and slack name.</li>
+<li>A Skill must have a unique name.</li>
+  
 Associations
 
 A Profile has many skills
