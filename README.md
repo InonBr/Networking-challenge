@@ -31,23 +31,32 @@ Validation
 <ul>
 <li>A Profile must have a unique email, Github username and slack name.</li>
 <li>A Skill must have a unique name.</li>
-  
+</ul>
+
 Associations
+<ul>
+<li>A Profile has many skills.</li>
 
-A Profile has many skills
+<li>A skill belongs to many profiles.</li>
 
-A skill belongs to many profiles.
+<li>You can’t delete a Skill if it used by at least one Profile.</li>
 
-You can’t delete a Skill if it used by at least one Profile.
+<li>When you delete a profile (Make sure not to delete associated Skills)</li>
+</ul>
 
-When you delete a profile (Make sure not to delete associated Skills)
+<h2>use good seeds.</h2>
 
-use good seeds.
-Routing, Controller, Views
-start with the route,
-then start coding the controller,
-start coding the view and refresh your browser. When your feature is done (and looks good), move on to the next one and repeat the process! When you think you’re done with the whole challenge, test it properly
-Routing, Controller, Views for Skills
-A user can add a new skill their profile
-Checkout simple_form for skills dropdown. GET “profiles/skill/new” POST “profiles/skills”
-Design as you go
+<h2>Routing, Controller, Views</h2>
+<ul>
+<li>start with the route,</li>
+<li>then start coding the controller,</li>
+<li>start coding the view and refresh your browser. When your feature is done (and looks good), move on to the next one and repeat the process! When you think you’re done with the whole challenge, test it properly</li>
+</ul>
+
+<h2>Routing, Controller, Views for Skills</h2>
+<ul>
+<li>A user can add a new skill their profile</li>
+<li>Checkout simple_form for skills dropdown. GET “profiles/skill/new” POST “profiles/skills”</li>
+</ul>
+
+<h2>Design as you go</h2>
