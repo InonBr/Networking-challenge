@@ -6,13 +6,13 @@ User Journeys:
 
 <ul>
 <li>As a user I can sign up to the networking platform.</li>
-As a user I need to fill my Profile.
-As a user I can view my Profile. (Profile show page)
-As a user I can edit my Profile.
-As a user I can upload my Profile picture.
-As a user I can view all Profiles on the platform (Profiles Index page).
-As a user I can view another User’s profile page (Profile show page).
-As a user I can search other profiles based on skilss, names or emails. (Use PG search).
+<li>As a user I need to fill my Profile.</li>
+<li>As a user I can view my Profile. (Profile show page)</li>
+<li>As a user I can edit my Profile.</li>
+<li>As a user I can upload my Profile picture.</li>
+<li>As a user I can view all Profiles on the platform (Profiles Index page).</li>
+<li>As a user I can view another User’s profile page (Profile show page).</li>
+<li>As a user I can search other profiles based on skilss, names or emails. (Use PG search).</li>
 </ul>
 Tip: You can use Mr Cocktail instructions and tips, the platforms are very similar.
 
