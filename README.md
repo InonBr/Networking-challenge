@@ -60,4 +60,3 @@ Associations
 </ul>
 
 <h2>Design as you go</h2>
->>>>>>> 400f1925fc328574fd579d177a25d81a83ac5f79
