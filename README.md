@@ -14,6 +14,7 @@ User Journeys:
 <li>As a user I can view another User’s profile page (Profile show page).</li>
 <li>As a user I can search other profiles based on skilss, names or emails. (Use PG search).</li>
 </ul>
+
 Tip: You can use Mr Cocktail instructions and tips, the platforms are very similar.
 
 Tables Go to db.lewagon.com and draw the schema. The tables we need. Think about the relations between the tables and what fields should be in each table.
