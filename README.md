@@ -17,7 +17,7 @@ User Journeys:
 
 Tip: You can use Mr Cocktail instructions and tips, the platforms are very similar.
 
-Tables Go to [db.lewagon.com] and draw the schema. The tables we need. Think about the relations between the tables and what fields should be in each table.
+Tables Go to [db.lewagon.com](https://kitt.lewagon.com/db/3862) and draw the schema. The tables we need. Think about the relations between the tables and what fields should be in each table.
 
 Important Don’t use rake - there is no RAKE:
 
