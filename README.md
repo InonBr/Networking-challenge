@@ -1,4 +1,4 @@
-h1 Networking-challenge h1
+<h1>Networking-challenge</h1>
 Platform description: A networking platform for Tel Aviv Alumni, Wagoners can sign up to the platform, build their Profile and view other alumni profiles.
 
 Please Fork the challenge before you start.
